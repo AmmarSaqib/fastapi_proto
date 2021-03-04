@@ -1,3 +1,8 @@
+"""
+Author: Ammar Saqib
+
+Main file to trigger the Uvicorn server
+"""
 import uvicorn
 from app.main import app
 
