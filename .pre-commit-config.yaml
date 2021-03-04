@@ -15,4 +15,4 @@ repos:
           entry: pylint
           language: python
           types: [python]
-          files: python
+          files: .py
